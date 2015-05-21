@@ -1,3 +1,2 @@
 # insight-dev
-* this is the first repo created during Insight *
-
+[Insight Data Science Homepage](http://www.insightdatascience.com) **test**
